@@ -1,0 +1,6 @@
+.progtitle{font-family: 'Merriweather', serif;text-transform: uppercase;font-size: 80px;margin-bottom: 0;}
+.P1{display: flex;}
+.progimage1{width: 500px; height: 300px;}
+.first{max-width: 330px; margin-left: auto;}
+.projectcircle{display: flex; background-color: #61d0d4;width:96px;height: 96px;border-radius: 50%;justify-content: center; position: relative;align-items: center;}
+.projectwords {text-decoration: none;color: whitesmoke;font-size: 17px;}

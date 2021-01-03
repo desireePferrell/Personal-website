@@ -1,0 +1,14 @@
+.restitle{font-family: 'Merriweather', serif;text-transform: uppercase;font-size: 80px;margin-bottom: 0;}
+.resume{display: flex;}
+.circle{display: flex;justify-content: center;align-items: center; width:130px; height:130px;border-radius:50%; position: relative;background-color:#e83556;}
+.circlewords{width: 150px;font-size: 17px; margin-left: 8px;text-decoration: none;color: whitesmoke;}
+.profwords{max-width: 600px;text-decoration: none;}
+.profinfo{display:flex}
+.details{margin-left:40px}
+.history{max-width: 420px;margin-left: 40px;}
+.skills{;width:420px; margin-left:40px}
+.employment{display:flex}
+.duties{padding:13px; list-style-type: circle;}
+.edu{display:flex}
+.tbs{max-width:608.233px; margin-left: 0;}
+.res{display: flex;}

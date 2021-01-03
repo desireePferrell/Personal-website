@@ -1,0 +1,10 @@
+.phonecontact{margin-right:150px;}
+.emailcontact{margin-right:150px;}
+.call{margin:0}
+.phone-number{margin:0}
+.socialmedia{ margin: 0;}
+.mediatag{margin: 0;}
+.contactinfo{ display: inline-flex;vertical-align: baseline;justify-content: center;margin-left:320px}
+.maincontact{margin:0}
+.email{margin:0}
+footer{ background-color:#e83556; margin-top:150px} 

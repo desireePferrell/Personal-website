@@ -1,4 +1,11 @@
-body{
-    background-color: #eae5e5;
-    font-family: 'Open Sans', sans-serif;
-}
+.referencelinks{display: flex; justify-content: space-between;text-transform:uppercase}
+.subheader{font-size: 43px; margin-top: 0;margin-bottom:0}
+.referencelinkslist{width:130px;height:130px; border-radius:50%;position:relative}
+.secondpart{padding-left: 40px;}
+.referencelinkslist a{text-decoration:none;color:white;position: absolute;top:41%;text-align: center;width:100%;}
+#resumelink{background-color:#e83556;}
+#myworklink{background-color: #61d0d4;}
+#myskillslink{background-color: #d1c926;}
+.other-main-header{display: flex;padding-left: 60px;padding-top: 60px;}
+.header-secondary{font-family: 'Merriweather', serif; font-size: 80px;margin-bottom:0px;margin-top:0px}
+.itsme{object-fit:cover;object-position: -59px -1px; border-radius: 50%; height: 450px; width: 450px;}
